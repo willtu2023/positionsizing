@@ -1,0 +1,2 @@
+# positionsizing
+Position sizing math
